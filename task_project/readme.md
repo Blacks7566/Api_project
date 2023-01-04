@@ -12,8 +12,11 @@
 - email :- admin@gmail.com
 - password :- admin
 
-### if you want to create user u can user admin panel
+### if you want to create user u can use admin panel or create user using api 
 
+- on web follow link
+
+- http://127.0.0.1:/8000/userApi/
 
 # URLs
 
